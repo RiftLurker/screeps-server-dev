@@ -17,3 +17,9 @@ npm build
 ```bash
 npm start
 ```
+
+## Known issues
+- After installation some modules have unstaged changes, this should only be incorrect file permissions for some of the executables. This can be solved by disabling file mode changes in submodules:
+```bash
+git submodule foreach 'git config core.fileMode false'
+``` 
