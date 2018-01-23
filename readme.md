@@ -10,7 +10,7 @@ npm run init
 
 ## Build
 ```bash
-npm build
+npm run build
 ```
 
 ## Run server
