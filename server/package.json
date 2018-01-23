@@ -1,0 +1,8 @@
+{
+  "name": "screeps-server",
+  "version": "0.0.0-development",
+  "private": true,
+  "devDependencies": {
+    "screeps": "^2.12.1"
+  }
+}

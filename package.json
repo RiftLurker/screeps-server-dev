@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "cd modules/engine && npx gulp",
+    "init": "cd server && npx screeps init",
+    "start": "cd server && npx screeps start"
+  },
+  "workspaces": [
+    "modules/backend-local",
+    "modules/common",
+    "modules/docs",
+    "modules/driver",
+    "modules/engine",
+    "modules/launcher",
+    "modules/screeps",
+    "modules/storage",
+    "server"
+  ]
+}

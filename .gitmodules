@@ -1,0 +1,24 @@
+[submodule "modules/common"]
+	path = modules/common
+	url = git@github.com:screeps/common
+[submodule "modules/backend-local"]
+	path = modules/backend-local
+	url = git@github.com:screeps/backend-local
+[submodule "modules/engine"]
+	path = modules/engine
+	url = git@github.com:screeps/engine
+[submodule "modules/screeps"]
+	path = modules/screeps
+	url = git@github.com:screeps/screeps
+[submodule "modules/driver"]
+	path = modules/driver
+	url = git@github.com:screeps/driver
+[submodule "modules/launcher"]
+	path = modules/launcher
+	url = git@github.com:screeps/launcher
+[submodule "modules/storage"]
+	path = modules/storage
+	url = git@github.com:screeps/storage
+[submodule "modules/docs"]
+	path = modules/docs
+	url = git@github.com:screeps/docs
