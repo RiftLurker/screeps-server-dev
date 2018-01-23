@@ -4,16 +4,16 @@
 ## Installation
 ```bash
 git submodule update --init --recursive
-yarn
-yarn run init
+npx yarn
+npm run init
 ```
 
 ## Build
 ```bash
-yarn build
+npm build
 ```
 
 ## Run server
 ```bash
-yarn start
+npm start
 ```
