@@ -6,7 +6,8 @@
 	url = git@github.com:screeps/backend-local
 [submodule "modules/engine"]
 	path = modules/engine
-	url = git@github.com:screeps/engine
+	url = git@github.com:ags131/engine
+	branch = tombstone
 [submodule "modules/screeps"]
 	path = modules/screeps
 	url = git@github.com:screeps/screeps
